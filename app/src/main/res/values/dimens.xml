@@ -1,0 +1,41 @@
+<!--
+  ~ Copyright (c) 2016. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  ~ Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+  ~ Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+  ~ Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+  ~ Vestibulum commodo. Ut rhoncus gravida arcu.
+  -->
+
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- Sizez of edittext and button -->
+    <dimen name="large">250dp</dimen>
+
+
+    <!-- Sizez of fab -->
+    <dimen name="dimen_fab">65dp</dimen>
+    <dimen name="elev_fab">6dp</dimen>
+
+
+    <!-- Sizez of font -->
+    <dimen name="sizefont">22sp</dimen>
+    <dimen name="sizefontButton">15sp</dimen>
+
+    <!-- Sizez of margin -->
+    <dimen name="margin_size">15dp</dimen>
+
+    <!-- Sizez of cardview -->
+    <dimen name="corners">15dp</dimen>
+    <dimen name="elevation">5dp</dimen>
+    <dimen name="height">350dp</dimen>
+    <dimen name="width">300dp</dimen>
+
+    <!-- Sizez of imgview -->
+    <dimen name="heigth_img">95dp</dimen>
+
+
+</resources>
